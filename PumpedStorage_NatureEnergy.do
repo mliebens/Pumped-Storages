@@ -1,5 +1,5 @@
 clear
-use "PumpedStorage_NatureEnergy.dta" // Import dataset
+use "PumpedStorage.dta" // Import dataset
 
 ** Create variables for the common market DE/AT	(MWh):
 ** Electricity production by source
